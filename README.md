@@ -20,7 +20,7 @@ Le certificat PDF délivré par l'application renvoie à ce paquet : la procédu
 
 ## Signaler une faille
 
-Écrire à `securite@<domaine>` (à créer). Merci de ne pas publier la faille avant correction.
+Écrire à `quentin.vvn3@hotmail.com`. Merci de ne pas publier la faille avant correction.
 
 ## Licence
 
