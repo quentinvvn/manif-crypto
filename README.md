@@ -20,7 +20,7 @@ Le certificat PDF délivré par l'application renvoie à ce paquet : la procédu
 
 ## Signaler une faille
 
-Écrire à `securite@<domaine>` (à créer). Merci de ne pas publier la faille avant correction.
+Utiliser l'onglet « Security » de ce dépôt (Report a vulnerability). Merci de ne pas publier la faille avant correction.
 
 ## Licence
 

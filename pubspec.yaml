@@ -3,7 +3,7 @@ description: >-
   Noyau de sécurité ouvert de Manif' : chiffrement des vidéos, clés et phrase
   de récupération, chaîne d'empreintes SHA-256, vérification des preuves.
 version: 0.1.0
-repository: https://github.com/<toi>/manif-crypto
+repository: https://github.com/quentinvvn/manif-crypto
 publish_to: "none"
 
 environment:
