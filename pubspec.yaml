@@ -1,0 +1,17 @@
+name: manif_crypto
+description: >-
+  Noyau de sécurité ouvert de Manif' : chiffrement des vidéos, clés et phrase
+  de récupération, chaîne d'empreintes SHA-256, vérification des preuves.
+version: 0.1.0
+repository: https://github.com/<toi>/manif-crypto
+publish_to: "none"
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+# Dart pur, sans Flutter : vérifiable et testable par n'importe qui.
+dependencies: {}
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.0
