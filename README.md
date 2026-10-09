@@ -20,7 +20,11 @@ Le certificat PDF délivré par l'application renvoie à ce paquet : la procédu
 
 ## Signaler une faille
 
+<<<<<<< HEAD
 Utiliser l'onglet « Security » de ce dépôt (Report a vulnerability). Merci de ne pas publier la faille avant correction.
+=======
+Écrire à `quentin.vvn3@hotmail.com`. Merci de ne pas publier la faille avant correction.
+>>>>>>> 27ec76ed40d228ce5965229e0afb2f0862b2614e
 
 ## Licence
 

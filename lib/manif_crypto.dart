@@ -5,4 +5,11 @@
 /// vidéo, chaîne d'empreintes et vérification des horodatages.
 library;
 
+export 'src/bytes.dart';
+export 'src/envelope.dart';
+export 'src/key_ring.dart';
+export 'src/pin_lock.dart';
+export 'src/recovery_phrase.dart';
 export 'src/version.dart';
+export 'src/video_crypto.dart';
+export 'src/wordlist_fr.dart';
